@@ -36,8 +36,6 @@ a}
 
 ## Etiam ut tempus neque, congue pretium dolor. ##
 
-Added locally
-
 In et fringilla neque. Ut et diam
 ut nulla ullamcorper finibus. Proin sed justo feugiat, tempor libero vitae,
 viverra ante. Vivamus a mauris diam. Aenean luctus dignissim odio, tincidunt
@@ -55,6 +53,4 @@ arcu. Donec elementum nulla in quam malesuada elementum. Nunc gravida massa vel
 maximus gravida. Aenean sed vestibulum dolor. Curabitur at leo dictum,
 sollicitudin diam ut, tempus metus. Nullam eleifend euismod nulla, vel molestie
 mauris molestie nec. Quisque ut aliquam lorem.
-
-Added this
 
