@@ -17,4 +17,4 @@ figure that out. As Yahigii Ngoto said:
 
 > The lack of text leads to diseases and bad manners. You must text more!
 
-This makes sense.
+This makes sense. I think so ...
